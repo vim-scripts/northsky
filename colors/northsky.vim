@@ -41,9 +41,9 @@ hi VisualNOS	guibg=#628262 gui=bold
 hi WarningMsg	guifg=#f60000 gui=underline
 
 hi Comment	guifg=DarkGray guibg=NONE gui=none
-hi Constant	guifg=#18a5e4 guibg=NONE gui=none
+hi Constant	guifg=#72a5e4 guibg=NONE gui=none
 hi Number	guifg=chartreuse2 guibg=NONE gui=none
-hi Identifier	guifg=#72a5e4 guibg=NONE gui=none
+hi Identifier	guifg=#72c8e4 guibg=NONE gui=none
 hi Statement	guifg=yellow guibg=NONE gui=none
 hi PreProc	guifg=#14a87c guibg=NONE gui=none
 hi Type		guifg=#ffae66 guibg=NONE gui=none
